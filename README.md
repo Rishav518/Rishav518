@@ -8,12 +8,12 @@
   <img width="50px"  src="https://img.icons8.com/color/256/react-native.png"/>
   <img width="50px"  src="https://img.icons8.com/color/256/c-programming.png"/>
   <img width="50px"  src="https://img.icons8.com/color/256/python.png"/>
-  <img width="50px"  src="https://img.icons8.com/color/256/django.png"/>
-  <img width="50px"  src="https://img.icons8.com/ios/256/flask.png"/>
   <img width="50px"  src="https://img.icons8.com/nolan/256/github.png"/>
   <img width="50px"  src="https://img.icons8.com/color/256/adobe-xd.png"/>
   <img width="50px"  src="https://img.icons8.com/color/256/kali-linux.png"/>
   <img width="50px"  src="https://img.icons8.com/color/256/wordpress.png"/>
+  <img width="50px"  src="https://img.icons8.com/color/256/django.png"/>
+
 
 
 </p>
