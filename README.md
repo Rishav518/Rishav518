@@ -14,7 +14,7 @@
   <img width="50px"  src="https://img.icons8.com/color/256/wordpress.png"/>
   <img width="50px"  src="https://img.icons8.com/color/256/django.png"/>
   <img width="50px"  src="https://img.icons8.com/nolan/256/flask.png"/>
-    <img width="50px"  src="https://icons8.com/icon/25692/digitalocean"/>
+  <img width="50px"  src="https://icons8.com/icon/113621/digitalocean"/>
 
   <img width="50px"  src="https://img.icons8.com/external-bearicons-blue-bearicons/256/external-SQL-file-extension-bearicons-blue-bearicons.png"/>
 
